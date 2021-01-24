@@ -1,3 +1,1 @@
 # status-demo
-
-content
